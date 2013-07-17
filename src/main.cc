@@ -18,11 +18,13 @@
 #include <QtGui/QApplication>
 #include <QMainWindow>
 
+#include "appinfo.h"
+
 int main(int argc, char *argv[]) {
   QApplication app(argc, argv);
 
   QMainWindow window;
-  window.setWindowTitle("Hello World!");
+  window.setWindowTitle(APPLICATION_NAME);
   window.show();
 
   return app.exec();

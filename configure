@@ -7,6 +7,3 @@ fi
 
 # create the cmake files
 (cd build >/dev/null 2>&1 && cmake .. "$@")
-
-# check source for improperly formatted c++
-(python tools/bin/cpplint.py src/*)
