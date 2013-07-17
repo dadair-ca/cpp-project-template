@@ -1,7 +1,6 @@
 bin/*
 lib/*
 build/*
-Makefile
 
 docs/*.png
 docs/*.css
