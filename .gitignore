@@ -1,0 +1,9 @@
+bin/*
+lib/*
+build/*
+Makefile
+
+docs/*.png
+docs/*.css
+docs/*.js
+docs/search/*
