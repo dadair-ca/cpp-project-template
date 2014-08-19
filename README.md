@@ -1,5 +1,6 @@
 [ ![Codeship Status for
 adairdavid/cpp-project-template](https://www.codeship.io/projects/5a155190-0a10-0132-88ce-76ea12c6d9cb/status)](https://www.codeship.io/projects/31708)
+
 == README ==
 
 This is a fork of Michael Aaron Safyan's cpp-project-template, available at: https://code.google.com/p/cpp-project-template/.
