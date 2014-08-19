@@ -41,13 +41,6 @@ SET (CMAKE_MODULE_PATH "${MAINFOLDER}/tools/share/cmake")
 INCLUDE_DIRECTORIES("${MAINFOLDER}/include")
 
 #
-# Locate Project Prerequisites
-#
-FIND_PACKAGE (Boost 1.53 COMPONENTS date_time filesystem system thread REQUIRED)
-INCLUDE_DIRECTORIES(${Boost_INCLUDE_DIRS})
-LINK_DIRECTORIES(${Boost_LIBRARY_DIRS})
-
-#
 # Configure Files
 #
 FILE (GLOB_RECURSE CONFIGINPUTS1 include/*.in.h.cmake)
