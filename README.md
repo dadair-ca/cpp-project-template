@@ -1,5 +1,5 @@
 [ ![Codeship Status for
-adairdavid/cpp-project-template](https://www.codeship.io/projects/5a155190-0a10-0132-88ce-76ea12c6d9cb/status)](https://www.codeship.io/projects/31708)
+adairdavid/cpp-project-template](https://www.codeship.io/projects/5a155190-0a10-0132-88ce-76ea12c6d9cb/status)](https://www.codeship.io/projects/31708)[![Coverage Status](https://coveralls.io/repos/adairdavid/cpp-project-template/badge.png)](https://coveralls.io/r/adairdavid/cpp-project-template)
 
 == README ==
 
